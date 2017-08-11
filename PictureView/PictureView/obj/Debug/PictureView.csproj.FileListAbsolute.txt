@@ -1,0 +1,9 @@
+c:\users\mgaluszka\documents\visual studio 2013\Projects\PictureView\PictureView\bin\Debug\PictureView.exe.config
+c:\users\mgaluszka\documents\visual studio 2013\Projects\PictureView\PictureView\bin\Debug\PictureView.exe
+c:\users\mgaluszka\documents\visual studio 2013\Projects\PictureView\PictureView\bin\Debug\PictureView.pdb
+c:\users\mgaluszka\documents\visual studio 2013\Projects\PictureView\PictureView\obj\Debug\PictureView.csprojResolveAssemblyReference.cache
+c:\users\mgaluszka\documents\visual studio 2013\Projects\PictureView\PictureView\obj\Debug\PictureView.Form1.resources
+c:\users\mgaluszka\documents\visual studio 2013\Projects\PictureView\PictureView\obj\Debug\PictureView.Properties.Resources.resources
+c:\users\mgaluszka\documents\visual studio 2013\Projects\PictureView\PictureView\obj\Debug\PictureView.csproj.GenerateResource.Cache
+c:\users\mgaluszka\documents\visual studio 2013\Projects\PictureView\PictureView\obj\Debug\PictureView.exe
+c:\users\mgaluszka\documents\visual studio 2013\Projects\PictureView\PictureView\obj\Debug\PictureView.pdb
